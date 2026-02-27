@@ -1,0 +1,24 @@
+TLDR: I’m writing down my human thoughts on AI so that I continue to practice critical thinking and can look back on my reactions to the technology during this critical period.
+
+There were two guys in my freshman dorm from the Bay Area that introduced me to software development. They both aced Intro to CS first semester Freshman year and had a running list of start-up ideas on the whiteboard of their dorm room. I appreciated their ingenuity and wanted to build things myself, so I added Computer Science to my Economics studies.
+
+Learning to code was like learning French. There are rules and once you become comfortable using them you can communicate with the compiler, which allows you to create programs. There was a learning curve, but once the rules, data structures, and logic were learned, I could create interactive programs. Reaching that point was very exciting.
+
+I did not code in my first jobs out of college. However, after six years of not touching a terminal, I downloaded Claude Pro the other day. The set up was easy and guided by a YouTube tech influencer paid by Anthropic. I set up my system and started chatting with Claude about a task manager program I wanted to create. I assumed it would ask a few questions about language, data structures, and features, but instead it immediately launched into creating what I (very poorly) asked it to build. 
+
+What came out 15 minutes later was incredibly strong (to my CS minor eyes). “Create a task manager” may be a popular prompt, therefore I attribute the quality and speed to another Claude user that may have taken the time to provide an in-depth, feature-rich prompt + QA. 
+
+A task manager is not a novel concept and there are many available for download in the Apple Store. The code for the program I interacted with (despite my weak prompt) is owned by Anthropic, who most likely is reusing the code each time it is prompted for a task manager. It made me think about the millions of global developers that have integrated Claude into their IDE. Say I work at “Middle-Market Software Firm”, and I integrate Claude code into my IDE, does Middle-Market Software Firm own the IP or does Anthropic? Is the nature of Anthropic’s ownership different in scenarios where the user leveraged Claude for design, generation, or QA?
+
+In a scenario where all software developers use Claude, how much control does Anthropic have? A somewhat similar analogy could be drawn to the cloud-services providers (AWS, GCP, Azure), who support a significant portion of global software. However, I think of the cloud-services providers more in the sense of providing binary compute and storage (keeping the lights on) rather than integrating into the intricacies of evolving code, where workflow control is stronger. 
+
+In today’s battle for AI dominance (as of February 26, 2026), the leading LLM vendors on the consumer side seem to be OpenAI and Gemini, and on the enterprise side Anthropic.
+OpenAI has garnered consumer adoption through a simple prompt box and impressive response results. These features have enabled it to improve with increased data volume and quality. The US consumer typically accounts for 70% of US GDP, therefore OpenAI’s strategy to win the hearts and minds of consumers for future advertisement revenue should win, right!
+
+No. If data is the competitive differentiator among LLMs, then the vendor with access to the largest quantity and quality of data will produce the strongest models. Access to enterprise files (code or otherwise) could be more valuable than the consumer queries entering ChatGPT. The line between what is consumer and enterprise will evolve with these technologies over time (e.g., rise of the solopreneur). Either way, both vendors are capturing significant volumes of sensitive data producing meaningful step-function improvements daily in their models. 
+
+I’m not yet sure if I am grateful that I did not become a software programmer after college. Who knows if six years would have been enough to develop enough expertise.
+
+What I do know is that what it means to be a software developer, investor, or entrepreneur has meaningfully changed. It is easier than ever to build new and replicate existing programs. Workflows and IP are consolidating on major infrastructure vendors. Public markets have swung daily in reaction to major releases from the LLM vendors (e.g., commercial RE sell off, HALO index). Investors are both leaning heavily into and away from fundamentals (e.g., appreciation for anti-AI trade, massive LLM VC / growth equity rounds).
+
+With each release we learn a bit more about what these technologies are capable of and how they will impact our lives. This diary is a documentation of these technologies and my human interpretation of their impact.
